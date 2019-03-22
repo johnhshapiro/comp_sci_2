@@ -1,0 +1,384 @@
+John Shapiro
+Comp Sci 2 Section MW
+Project: CarDB
+
+List of honda vehicles in database:
+
+   Make: Honda
+  Model: Accord
+   Year: 2004
+  Color: black
+License: ARP-789
+
+   Make: Honda
+  Model: Accord
+   Year: 1987
+  Color: gold
+License: XY754
+
+   Make: Honda
+  Model: Insight
+   Year: 2002
+  Color: green
+License: AAA-123
+
+Found 3 match[es].
+
+List of expensives in database:
+
+   Make: Cadillac
+  Model: Expensive
+   Year: 1999
+  Color: white
+License: JSG1
+
+   Make: Mercedes
+  Model: Expensive
+   Year: 1998
+  Color: black
+License: 345-OP
+
+Found 2 match[es].
+
+List of blue vehicles in database:
+
+   Make: Cooper
+  Model: Mini
+   Year: 1999
+  Color: blue
+License: MCOOP
+
+Found 1 match[es].
+
+List of 2001s in database:
+
+   Make: Chevy
+  Model: Something
+   Year: 2001
+  Color: gray
+License: XX234
+
+   Make: Chevy
+  Model: Something
+   Year: 2001
+  Color: white
+License: 45OUH
+
+   Make: Pontiac
+  Model: Firebird
+   Year: 2001
+  Color: red
+License: 777-653
+
+   Make: Toyota
+  Model: Celica
+   Year: 2001
+  Color: white
+License: JK-12
+
+   Make: Toyota
+  Model: Celica
+   Year: 2001
+  Color: white
+License: 76 54 32
+
+Found 5 match[es].
+
+Found full license plate # match:
+
+   Make: Studebaker
+  Model: Classic
+   Year: 1950
+  Color: gray
+License: stu--bak
+
+Vehicles w/ plate # containing co:
+
+   Make: Chrysler
+  Model: Something
+   Year: 2002
+  Color: gray
+License: COL-900
+
+   Make: Cooper
+  Model: Mini
+   Year: 1999
+  Color: blue
+License: MCOOP
+
+Found 2 match[es].
+
+List of white fords in database:
+
+   Make: Ford
+  Model: Explorer
+   Year: 2000
+  Color: white
+License: XPLOR
+
+   Make: Ford
+  Model: Falcon
+   Year: 1967
+  Color: white
+License: XJK-1771
+
+Found 2 match[es].
+
+List of gold vehicles containing partial plate # air:
+
+   Make: Ford
+  Model: Fairlane
+   Year: 1959
+  Color: gold
+License: FAIRLN
+
+Found 1 match[es].
+
+Vehicles made from 1998 to 2001 in database:
+
+   Make: Cadillac
+  Model: Expensive
+   Year: 1999
+  Color: white
+License: JSG1
+
+   Make: Chevy
+  Model: Something
+   Year: 2001
+  Color: gray
+License: XX234
+
+   Make: Chevy
+  Model: Something
+   Year: 2001
+  Color: white
+License: 45OUH
+
+   Make: Cooper
+  Model: Mini
+   Year: 1999
+  Color: blue
+License: MCOOP
+
+   Make: Ford
+  Model: Explorer
+   Year: 2000
+  Color: white
+License: XPLOR
+
+   Make: Mazda
+  Model: Miata
+   Year: 2000
+  Color: red
+License: D899
+
+   Make: Mercedes
+  Model: Expensive
+   Year: 1998
+  Color: black
+License: 345-OP
+
+   Make: Pontiac
+  Model: Firebird
+   Year: 2001
+  Color: red
+License: 777-653
+
+   Make: Toyota
+  Model: Celica
+   Year: 2001
+  Color: white
+License: JK-12
+
+   Make: Toyota
+  Model: Celica
+   Year: 2001
+  Color: white
+License: 76 54 32
+
+   Make: Volkswagen
+  Model: Beetle
+   Year: 1999
+  Color: black
+License: 75-SRT
+
+Found 11 match[es].
+
+List of all vehicles in database:
+
+   Make: Cadillac
+  Model: Expensive
+   Year: 1999
+  Color: white
+License: JSG1
+
+   Make: Chevy
+  Model: Corvette
+   Year: 2005
+  Color: red
+License: FG478
+
+   Make: Chevy
+  Model: Something
+   Year: 2001
+  Color: gray
+License: XX234
+
+   Make: Chevy
+  Model: Something
+   Year: 2001
+  Color: white
+License: 45OUH
+
+   Make: Chevy
+  Model: Malibu
+   Year: 1967
+  Color: red
+License: MY CAR
+
+   Make: Chrysler
+  Model: Something
+   Year: 2002
+  Color: gray
+License: COL-900
+
+   Make: Chrysler
+  Model: LeBaron
+   Year: 1988
+  Color: black
+License: JK4567
+
+   Make: Cooper
+  Model: Mini
+   Year: 1999
+  Color: blue
+License: MCOOP
+
+   Make: Ford
+  Model: Explorer
+   Year: 2000
+  Color: white
+License: XPLOR
+
+   Make: Ford
+  Model: Falcon
+   Year: 1967
+  Color: white
+License: XJK-1771
+
+   Make: Ford
+  Model: Fairlane
+   Year: 1959
+  Color: gold
+License: FAIRLN
+
+   Make: Honda
+  Model: Accord
+   Year: 2004
+  Color: black
+License: ARP-789
+
+   Make: Honda
+  Model: Accord
+   Year: 1987
+  Color: gold
+License: XY754
+
+   Make: Honda
+  Model: Insight
+   Year: 2002
+  Color: green
+License: AAA-123
+
+   Make: Lincoln
+  Model: Towncar
+   Year: 1995
+  Color: orange
+License: 9034-PP
+
+   Make: Mazda
+  Model: Miata
+   Year: 2000
+  Color: red
+License: D899
+
+   Make: Mercedes
+  Model: Expensive
+   Year: 1998
+  Color: black
+License: 345-OP
+
+   Make: Mercury
+  Model: Cougar
+   Year: 1968
+  Color: red
+License: CAT - 000
+
+   Make: Pontiac
+  Model: Firebird
+   Year: 2001
+  Color: red
+License: 777-653
+
+   Make: Speedy
+  Model: XJ7
+   Year: 2006
+  Color: red
+License: 591-343
+
+   Make: Studebaker
+  Model: Classic
+   Year: 1950
+  Color: gray
+License: stu--bak
+
+   Make: Tesla
+  Model: Electron
+   Year: 2005
+  Color: black
+License: HHT 76
+
+   Make: Toyota
+  Model: Celica
+   Year: 2001
+  Color: white
+License: JK-12
+
+   Make: Toyota
+  Model: Celica
+   Year: 2001
+  Color: white
+License: 76 54 32
+
+   Make: Toyota
+  Model: Blah
+   Year: 2118
+  Color: black
+License: TOY
+
+   Make: Volkswagen
+  Model: Cheapo
+   Year: 1982
+  Color: primer
+License: OLDIE
+
+   Make: Volkswagen
+  Model: Beetle
+   Year: 1999
+  Color: black
+License: 75-SRT
+
+   Make: Volkswagen
+  Model: 412
+   Year: 1979
+  Color: green
+License: 3334-AB
+
+   Make: Volkswagen
+  Model: Beetle
+   Year: 1975
+  Color: yellow
+License: BUG
+
+Found 29 match[es].
+

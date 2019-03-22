@@ -1,0 +1,35 @@
+John Shapiro
+Comp Sci 2 Section MW
+
+operation:
+  add 4x^2 + 3x + 5
+  and x^2 + 10x + 2
+  result: 5x^2 + 13x + 7
+
+operation:
+  evaluate x^5 + 3x^2 + 4x
+  result: when x = 1, y = 8
+
+operation:
+  evaluate 2x^3 + 5x^2 + 3x + 1
+  result: when x = 2, y = 43
+
+operation:
+  add x^4 + 10x^2
+  and 3x + 1
+  result: x^4 + 10x^2 + 3x + 1
+
+operation:
+  add 7
+  and 23
+  result: 30
+
+operation:
+  add x
+  and x^2 + 16
+  result: x^2 + x + 16
+
+operation:
+  evaluate x
+  result: when x = 33, y = 33
+
