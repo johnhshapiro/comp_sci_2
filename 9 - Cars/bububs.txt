@@ -1,9 +1,0 @@
-Found match:
-
-   Make: Studebaker
-  Model: Classic
-   Year: 1950
-  Color: gray
-License: stu--bak
-
-No matches found!
